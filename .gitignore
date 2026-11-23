@@ -9,8 +9,8 @@
 !*.py
 !*.yml
 
-# ignore everything in examples
-data/**
+# ignore everything in data
+# data/**
 
 # keep gitignore
 !.gitignore
