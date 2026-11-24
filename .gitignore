@@ -8,9 +8,11 @@
 !*.ipynb
 !*.py
 !*.yml
+!*.geojson
 
-# ignore everything in data
+# allow something in data
 # data/**
+!*.geojson
 
 # keep gitignore
 !.gitignore
